@@ -1,0 +1,16 @@
+.pokedesk-btn {
+      margin-bottom: 20px;
+      background-color: rgb(5, 219, 191);
+      padding: 9px 19px 9px 19px;
+      border-radius: 5px;
+      border: none;
+      color: black;
+      font-size: 17px;
+      font-weight: 200;
+}
+
+.pokedesk-btn:hover {
+      background-color: rgb(2, 40, 41);
+      border-radius: 7px;
+      color: aliceblue;
+}

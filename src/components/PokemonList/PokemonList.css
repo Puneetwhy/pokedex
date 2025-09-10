@@ -1,0 +1,33 @@
+.pokemon-list-wrapper{
+     margin: 2rem auto;
+     text-decoration: none;
+}
+
+.pokemon-wrapper{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+}
+
+.controls {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.controls > button{
+      border-radius: 5px;
+      border: none;
+      padding: 9px 19px 9px 19px;
+      margin: 4px;
+      background-color:crimson;
+      font-weight: 300;
+      font-size: larger;
+      
+}
+
+.controls>button:hover {
+      background-color: brown;
+}
